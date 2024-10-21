@@ -5,3 +5,6 @@ Procédure de push:
 git add . (ajoute tous les fichiers du repertoire courant)
 git commit -m 'texte' 
 git push 
+
+Procédure pull:
+get fetch -- all
